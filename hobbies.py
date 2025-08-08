@@ -8,7 +8,7 @@ for i in range(3):
 # Print the statement with the listed hobbies
 print(f"I enjoy {', '.join(hobbies)}.")
 
-hobby=["A","B","C"]
+hobbyy=["A","B","C"]
 
-for hobbiess in hobby:
+for hobbiess in hobbyy:
     print(f"i enjoy {hobbiess}")
